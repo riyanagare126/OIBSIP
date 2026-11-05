@@ -36,7 +36,7 @@ Each task folder already includes a generated **`demo_video.mp4`** starting with
 ✅ Automatic unique PNR generation & confirmation receipt dialog
 ✅ PNR Cancellation Module: Fetch full booking details by PNR and confirm cancellation
 
-🔗 GitHub Repository (OIBSIP): https://github.com/<your-username>/OIBSIP
+🔗 GitHub Repository (OIBSIP): https://github.com/riyanagare126/OIBSIP
 
 #oasisinfobyte #javadevelopment #java #swing #jdbc #sqlite #internship #softwareengineering
 ```
@@ -56,7 +56,7 @@ Each task folder already includes a generated **`demo_video.mp4`** starting with
 ✅ Live Attempt Counter & Progress Bar with maximum attempt limits
 ✅ Multi-round scoreboard tracking ("Round X — guessed in Y attempts") and Play Again flow
 
-🔗 GitHub Repository (OIBSIP): https://github.com/<your-username>/OIBSIP
+🔗 GitHub Repository (OIBSIP): https://github.com/riyanagare126/OIBSIP
 
 #oasisinfobyte #javadevelopment #java #gamedev #swing #internship #coding
 ```
@@ -76,7 +76,7 @@ Each task folder already includes a generated **`demo_video.mp4`** starting with
 ✅ Cash Withdrawal & Inter-Account Fund Transfer with "Insufficient Funds" balance validation
 ✅ Cash Deposit & real-time balance updates across accounts
 
-🔗 GitHub Repository (OIBSIP): https://github.com/<your-username>/OIBSIP
+🔗 GitHub Repository (OIBSIP): https://github.com/riyanagare126/OIBSIP
 
 #oasisinfobyte #javadevelopment #java #oop #backend #internship #programming
 ```
@@ -96,7 +96,7 @@ Each task folder already includes a generated **`demo_video.mp4`** starting with
 ✅ Live 30-minute Countdown Timer with automatic exam submission at 00:00
 ✅ Session protection dialog on window close & comprehensive question-by-question score breakdown
 
-🔗 GitHub Repository (OIBSIP): https://github.com/<your-username>/OIBSIP
+🔗 GitHub Repository (OIBSIP): https://github.com/riyanagare126/OIBSIP
 
 #oasisinfobyte #javadevelopment #java #edtech #swing #internship #softwaredevelopment
 ```
@@ -116,7 +116,7 @@ Each task folder already includes a generated **`demo_video.mp4`** starting with
 ✅ User Module: Registration/Login, category & title/author search, 14-day book issue & return
 ✅ Automatic Overdue Fine Calculation (Rs. 5/day) + Advance Booking for out-of-stock books + Contact Query Inbox
 
-🔗 GitHub Repository (OIBSIP): https://github.com/<your-username>/OIBSIP
+🔗 GitHub Repository (OIBSIP): https://github.com/riyanagare126/OIBSIP
 
 #oasisinfobyte #javadevelopment #fullstackjava #sqlite #jdbc #webdevelopment #internship
 ```
